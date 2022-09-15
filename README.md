@@ -10,7 +10,7 @@ This project is part of the MITx Full-Stack Developer Course. In this project bu
 * open the "Bus_Traker.html" file in your browser
 
 ## Ideas for future improvements
-* show name of busstop when hovering over the icon instead of clicking on it
+* show name of busstop when hovering over the icon 
 * paint the track that the bus has taken
 * fetch data from the bus schedule to see when the bus arrives at a busstop
 
